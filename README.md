@@ -204,7 +204,7 @@ var totalSalary = salary - pension; // DOUBLE
 
 #### Cast between data types
 
-::Automatic conversion::
+Automatic conversion.
 byte -> short
 short -> int
 char -> int
@@ -212,7 +212,7 @@ int -> long
 long -> float
 float -> double
 
-.::Mandatory cast::.
+Mandatory cast.
 double -> float
 float -> long
 long -> int
